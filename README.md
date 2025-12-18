@@ -1,6 +1,6 @@
-# DSA300
+# DSA Questions 
 
-This repository contains 300 essential LeetCode problems categorized into different data structures and algorithms.
+This repository contains 150+ essential LeetCode problems categorized into different data structures and algorithms.
 
 ## Arrays
 
